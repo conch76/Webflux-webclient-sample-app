@@ -1,4 +1,4 @@
-package com.conch.reactive.rsotoken;
+package com.conch.reactive.token;
 
 import lombok.Getter;
 import org.springframework.security.core.GrantedAuthority;

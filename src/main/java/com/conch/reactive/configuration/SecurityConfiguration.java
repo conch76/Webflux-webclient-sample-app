@@ -16,8 +16,8 @@
 
 package com.conch.reactive.configuration;
 
-import com.conch.reactive.rsotoken.CustomReactiveJwtAuthenticationConverterAdapter;
-import com.conch.reactive.rsotoken.CustomAccessTokenConverter;
+import com.conch.reactive.token.CustomReactiveJwtAuthenticationConverterAdapter;
+import com.conch.reactive.token.CustomAccessTokenConverter;
 import org.springframework.context.annotation.Bean;
 import org.springframework.core.convert.converter.Converter;
 import org.springframework.security.authentication.AbstractAuthenticationToken;

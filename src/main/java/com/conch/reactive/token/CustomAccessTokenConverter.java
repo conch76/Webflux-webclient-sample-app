@@ -1,4 +1,4 @@
-package com.conch.reactive.rsotoken;
+package com.conch.reactive.token;
 
 import org.springframework.core.convert.converter.Converter;
 import org.springframework.security.authentication.AbstractAuthenticationToken;

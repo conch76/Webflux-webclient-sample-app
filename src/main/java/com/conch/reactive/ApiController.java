@@ -3,7 +3,7 @@ package com.conch.reactive;
 import com.conch.reactive.domain.ApiRequest;
 import com.conch.reactive.domain.ApiResponse;
 import com.conch.reactive.domain.WebClientRequestContext;
-import com.conch.reactive.rsotoken.ApiAccessToken;
+import com.conch.reactive.token.ApiAccessToken;
 import com.conch.reactive.service.RequestAuthTokenParser;
 import com.conch.reactive.service.WebClientApiService;
 import io.swagger.annotations.ApiImplicitParam;
