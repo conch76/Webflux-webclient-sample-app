@@ -11,7 +11,7 @@
     <groupId>com.conch</groupId>
     <artifactId>webflux-client</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>tencent-aas</name>
+    <name>Sample webflux-webclient app</name>
     <description>Sample Webflux/webclient app</description>
 
 
