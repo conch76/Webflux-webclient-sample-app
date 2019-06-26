@@ -1,0 +1,20 @@
+server:
+  port: 8080
+
+application:
+  api-retry:
+    maxRetryCount: 2
+    retryDelayInMillis: 300
+
+api:
+  webclient:
+    connectTimeoutInMilliSecond: 5000
+    readTimeoutInSecond: 10
+    baseUri: localhost:1111
+
+spring:
+  security:
+    oauth2:
+      resourceserver:
+        jwt:
+          jwk-set-uri: whereisthisplace
